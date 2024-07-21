@@ -8,7 +8,7 @@
         <td><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="150" height="150"></td>
         <td>
             🗺️ I am from Delhi, India.  <br>
-            🏫 Pursuing a B.Tech in Electronics & Communication, Shiv Nadar Institute of Eminence<br>
+            🏫 Pursuing a B.Tech in Electronics & Communication, Shiv Nadar Institute of Eminence, Delhi NCR <br>
             💬 Let's discuss about Stocks, Crypto and Technology <br>
             ✈️ I like travelling a lot.<br>
             📫 Reach out to me at siddhantgehani@gmail.com
