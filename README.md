@@ -14,7 +14,7 @@
             📫 Reach out to me at siddhantgehani@gmail.com
         </td>
     </tr>
-</table>
+</table> <br>
 
 ## 🌐 Socials
 <div align="center">
@@ -25,7 +25,7 @@
 [![Discord](https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge)](https://discordapp.com/users/714533110049669190)
 
 
-</div>
+</div> <br>
 
 <div id="header" align="center"> 
   
