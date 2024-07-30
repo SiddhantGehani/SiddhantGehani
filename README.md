@@ -13,14 +13,15 @@
             🏫 Pursuing a B.Tech in Electronics & Communication, Shiv Nadar Institute of Eminence, Delhi NCR <br>
             💬 Let's discuss about Stocks, Crypto and Technology <br>
             ✈️ I like travelling a lot.<br>
-            📫 Reach out to me at siddhantgehani@gmail.com
+            👨‍💻 Reach out to me at siddhantgehani@gmail.com
         </td>
     </tr>
 </table> <br>
 
 
-## 🌐 Socials
 <div align="center">
+   
+## 📫 Connect with me
   
 [![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](mailto:siddhantgehani@gmail.com) 
 [![Linkdin](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/siddhant-gehani/) 
