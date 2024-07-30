@@ -5,7 +5,7 @@
 ##  Hi, I'm Siddhant      <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30" height="25">
 <table border="0">
    <tr>
-        <td><img src="https://github.com/SiddhantGehani/SiddhantGehani/blob/main/about_me.gif" width="150" height="150"></td>
+        <td><img src="https://github.com/SiddhantGehani/SiddhantGehani/blob/main/about_me.gif" width="160" height="150"></td>
         <td>
             🗺️ I am from Delhi, India.  <br>
             🏫 Pursuing a B.Tech in Electronics & Communication, Shiv Nadar Institute of Eminence, Delhi NCR <br>
@@ -32,7 +32,7 @@
 ## 💻 Tech Stack
 <table border="0">
 <tr>
-<td> <img src = "https://cdn.prod.website-files.com/5c19020c997c25514d17d86f/6123eeadd1c080239dd39956_Setup%20Analytics.gif"width="165" height="145" align="right"> </td> 
+<td> <img src = "https://cdn.prod.website-files.com/5c19020c997c25514d17d86f/6123eeadd1c080239dd39956_Setup%20Analytics.gif"width="155" height="145" align="right"> </td> 
  <td>
 <div align="center">
   
@@ -58,7 +58,7 @@
 </div>
   
 </td>
-<td> <img src = "https://cdn.prod.website-files.com/5c19020c997c25514d17d86f/60c0d9460c02947666c0d70c_Data%20report.gif" width="165" height="145" align="right"> </td> 
+<td> <img src = "https://cdn.prod.website-files.com/5c19020c997c25514d17d86f/60c0d9460c02947666c0d70c_Data%20report.gif" width="155" height="145" align="right"> </td> 
  </td> 
 </tr>
 </table>
