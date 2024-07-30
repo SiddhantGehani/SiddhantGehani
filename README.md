@@ -4,7 +4,7 @@
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
-##  Hi, I'm Siddhant      <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30" height="25">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=1000&pause=999998&color=F7F7F7&center=true&vCenter=true&repeat=false&width=395&height=30&lines=Hi%2C+I'm+Siddhant+Gehani" alt="Typing SVG" /></a> <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="40" height="35">
 <table border="0">
    <tr>
         <td><img src="https://github.com/SiddhantGehani/SiddhantGehani/blob/main/about_me.gif" width="160" height="150"></td>
