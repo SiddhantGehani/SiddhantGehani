@@ -6,7 +6,7 @@
 <table border="0">
    <tr>
       <!--  <td><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="150" height="150"></td> -->
-        <td><img src="https://imarticus.org/blog/wp-content/uploads/2021/12/djbwgfw.gif" width="240" height="150"></td>
+        <td><img src="https://imarticus.org/blog/wp-content/uploads/2021/12/djbwgfw.gif" width="230" height="150"></td>
         <td>
             🗺️ I am from Delhi, India.  <br>
             🏫 Pursuing a B.Tech in Electronics & Communication, Shiv Nadar Institute of Eminence <br>
@@ -33,7 +33,7 @@
 ## 💻 Tech Stack
 <table border="0">
 <tr>
-<td> <img src = "https://cdn.prod.website-files.com/5c19020c997c25514d17d86f/6123eeadd1c080239dd39956_Setup%20Analytics.gif"width="155" height="145" align="right"> </td> 
+<td> <img src = "https://cdn.prod.website-files.com/5c19020c997c25514d17d86f/6123eeadd1c080239dd39956_Setup%20Analytics.gif"width="165" height="145" align="right"> </td> 
  <td>
 <div align="center">
   
@@ -59,7 +59,7 @@
 </div>
   
 </td>
-<td> <img src = "https://cdn.prod.website-files.com/5c19020c997c25514d17d86f/60c0d9460c02947666c0d70c_Data%20report.gif" width="155" height="145" align="right"> </td> 
+<td> <img src = "https://cdn.prod.website-files.com/5c19020c997c25514d17d86f/60c0d9460c02947666c0d70c_Data%20report.gif" width="165" height="145" align="right"> </td> 
  </td> 
 </tr>
 </table>
