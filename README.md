@@ -1,7 +1,9 @@
 <img align="center" alt="banner" src="https://github.com/SiddhantGehani/SiddhantGehani/blob/main/Siddhant%20LinkedIn%20Banner.jpg" width="100%">
 
 <div id="header" align="center">
-  
+
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
 ##  Hi, I'm Siddhant      <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30" height="25">
 <table border="0">
    <tr>
@@ -16,6 +18,7 @@
     </tr>
 </table> <br>
 
+
 ## 🌐 Socials
 <div align="center">
   
@@ -28,6 +31,7 @@
 </div> <br>
 
 <div id="header" align="center"> 
+
   
 ## 💻 Tech Stack
 <table border="0">
@@ -62,6 +66,7 @@
  </td> 
 </tr>
 </table>
+
 
 
 <!--
