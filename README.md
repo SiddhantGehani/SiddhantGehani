@@ -6,10 +6,10 @@
 <table border="0">
    <tr>
       <!--  <td><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="150" height="150"></td> -->
-        <td><img src="https://imarticus.org/blog/wp-content/uploads/2021/12/djbwgfw.gif" width="190" height="150"></td>
+        <td><img src="https://imarticus.org/blog/wp-content/uploads/2021/12/djbwgfw.gif" width="200" height="150"></td>
         <td>
             🗺️ I am from Delhi, India.  <br>
-            🏫 Pursuing a B.Tech in Electronics & Communication, Shiv Nadar Institute of Eminence, Delhi NCR <br>
+            🏫 Pursuing a B.Tech in Electronics & Communication, Shiv Nadar Institute of Eminence <br>
             💬 Let's discuss about Stocks, Crypto and Technology <br>
             ✈️ I like travelling a lot.<br>
             📫 Reach out to me at siddhantgehani@gmail.com
