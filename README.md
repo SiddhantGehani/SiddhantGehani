@@ -5,7 +5,8 @@
 ##  Hi, I'm Siddhant      <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30" height="25">
 <table border="0">
    <tr>
-        <td><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="150" height="150"></td>
+      <!--  <td><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="150" height="150"></td> -->
+        <td><img src="https://imarticus.org/blog/wp-content/uploads/2021/12/djbwgfw.gif" width="150" height="150"></td>
         <td>
             🗺️ I am from Delhi, India.  <br>
             🏫 Pursuing a B.Tech in Electronics & Communication, Shiv Nadar Institute of Eminence, Delhi NCR <br>
