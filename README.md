@@ -12,7 +12,7 @@
             🗺️ I am from Delhi, India.  <br>
             🏫 Pursuing a B.Tech in Electronics & Communication, Shiv Nadar Institute of Eminence, Delhi NCR <br>
             💬 Let's discuss about Stocks, Crypto and Technology <br>
-            ✈️ I like travelling a lot.<br>
+            ✈️ I like travelling a lot <br>
             👨‍💻 Reach out to me at siddhantgehani.netlify.app
         </td>
     </tr>
